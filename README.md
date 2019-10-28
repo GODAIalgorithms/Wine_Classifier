@@ -20,7 +20,7 @@ extent) without being an expert!
 Training and testing We split the dataset in a 70/30 proportion to create
 the training and testing sets. These sets are labelled, i.e. the class each
 sample belongs to is known. You will need to use the training set to train
-the classier, and use the test set to check your code is working correctly,
+the classifier, and use the test set to check your code is working correctly,
 as well as to report results. We also generated a private test set, which we
 will use to auto-mark your code. The private test set will contain the same
 features as the training and public test sets. We will not release the private
