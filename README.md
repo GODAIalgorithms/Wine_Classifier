@@ -1,12 +1,12 @@
 # Wine_Classifier
 To classify a set of samples into a certain
-number of classes. You will rst extract discriminative features from the data
-samples, then build a classier that uses such features to recognise what class
+number of classes. You will first extract discriminative features from the data
+samples, then build a classifier that uses such features to recognise what class
 a given sample belongs to.
 The Wine Dataset consists of 178
 samples, each corresponding to a wine. Each wine is produced in the same
-region in Italy, and each wine derives from one of three dierent cultivars (or
-type of plant). We will treat the three dierent cultivars as classes.
+region in Italy, and each wine derives from one of three different cultivars (or
+type of plant). We will treat the three different cultivars as classes.
 Each sample contains 13 features/dimensions, corresponding to a chemical
 constituent of the wine: 1) Alcohol, 2) Malic acid, 3) Ash, 4) Alkalinity of
 ash, 5) Magnesium, 6) Total phenols, 7) Flavanoidsm, 8) Non
